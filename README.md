@@ -1,2 +1,2 @@
 # NotSoSimple-theme
-CSS revamping
+A child theme from Simplenote
